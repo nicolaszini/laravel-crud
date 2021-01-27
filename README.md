@@ -7,6 +7,20 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+CRUD de estudiantes hecho con laravel y mysql
+
+## Ejecucion
+
+php artisan serve
+
+## Listar estudiantes
+
+http://127.0.0.1:8000/students/
+
+## Insertar estudiantes
+
+http://127.0.0.1:8000/students/create
+
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
